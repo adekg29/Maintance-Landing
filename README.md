@@ -4,12 +4,6 @@ Create BY
 https://github.com/itconsultis/
 
 Demo
-https://maintance.adewakun.my.id/
+https://adewa.host/maintance
 
-I modified it
-
-#My Website
-https://alltutorcyber.net/
-
-#My Landing
-https://adewakun.my.id/
+Hanya saya modifikasikan
