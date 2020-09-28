@@ -4,6 +4,6 @@ Create BY
 https://github.com/itconsultis/
 
 Demo
-https://adewa.host/maintance
+https://adewakun.my.id/maintance
 
 Hanya saya modifikasikan
