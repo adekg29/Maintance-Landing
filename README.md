@@ -4,6 +4,6 @@ Create BY
 https://github.com/itconsultis/
 
 Demo
-https://adewakun.my.id/maintance
+https://maintance.moelogger.com
 
 Hanya saya modifikasikan
