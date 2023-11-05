@@ -4,11 +4,9 @@ Create BY
 https://github.com/itconsultis/
 
 Demo
-https://maintance.moelogger.com
+https://maintance.adekg.com
 
 Hanya saya modifikasikan
 
 Support me
-https://moelogger.com/
-https://moebatch.com/
 https://adekg.com/
